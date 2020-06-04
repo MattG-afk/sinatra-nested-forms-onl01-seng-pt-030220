@@ -3,6 +3,7 @@ class Ship
   
   @@all = []
   
-  def initialize(params)
+  def initialize(name,type,booty)
+    
     
 end
